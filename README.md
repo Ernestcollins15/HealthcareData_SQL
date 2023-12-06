@@ -1,4 +1,4 @@
-# HealthcareData_SQL
+# HealthcareData_SQL.
 This GitHub repository hosts an insightful data analysis project that delves deep into the Penda Healthcare dataset to provide valuable answers to stakeholders' key questions using SQL. Penda Healthcare is a leading healthcare provider, and this project aims to uncover actionable insights by querying the data through SQL queries.
 
 
